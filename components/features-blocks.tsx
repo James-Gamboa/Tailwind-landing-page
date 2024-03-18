@@ -10,7 +10,7 @@ export default function FeaturesBlocks() {
 
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
             <h2 className="h2 mb-4">Explore the solutions</h2>
-            <p className="text-xl text-gray-600">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur excepteur sint occaecat cupidatat.</p>
+            <p className="text-xl text-gray-600"> Discover our range of solutions</p>
           </div>
 
           <div className="max-w-sm mx-auto grid gap-6 md:grid-cols-2 lg:grid-cols-3 items-start md:max-w-2xl lg:max-w-none">
@@ -28,7 +28,7 @@ export default function FeaturesBlocks() {
                 </g>
               </svg>
               <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Headless CMS</h4>
-              <p className="text-gray-600 text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+              <p className="text-gray-600 text-center">Elevate your content management experience with our Headless CMS solution. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
             </div>
 
             <div className="relative flex flex-col items-center p-6 bg-white rounded shadow-xl">
@@ -42,8 +42,8 @@ export default function FeaturesBlocks() {
                   </g>
                 </g>
               </svg>
-              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Headless CMS</h4>
-              <p className="text-gray-600 text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">AI-driven Content </h4>
+              <p className="text-gray-600 text-center">Implement AI to analyze user behavior and suggest personalized content, enhancing user experience and content relevance.</p>
             </div>
 
             <div className="relative flex flex-col items-center p-6 bg-white rounded shadow-xl">
@@ -58,8 +58,8 @@ export default function FeaturesBlocks() {
                   </g>
                 </g>
               </svg>
-              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Headless CMS</h4>
-              <p className="text-gray-600 text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Real-Time Collaboration Features</h4>
+              <p className="text-gray-600 text-center">Add real-time collaboration capabilities for efficient team collaboration in content creation, editing, and review.</p>
             </div>
 
             <div className="relative flex flex-col items-center p-6 bg-white rounded shadow-xl">
@@ -74,8 +74,8 @@ export default function FeaturesBlocks() {
                   </g>
                 </g>
               </svg>
-              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Headless CMS</h4>
-              <p className="text-gray-600 text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Integration E-commerce with Platforms</h4>
+              <p className="text-gray-600 text-center">Develop specific integrations with popular e-commerce platforms to streamline content management related to products.</p>
             </div>
 
             <div className="relative flex flex-col items-center p-6 bg-white rounded shadow-xl">
@@ -89,8 +89,8 @@ export default function FeaturesBlocks() {
                   </g>
                 </g>
               </svg>
-              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Headless CMS</h4>
-              <p className="text-gray-600 text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Advanced Analytics and Tracking Tools</h4>
+              <p className="text-gray-600 text-center">Enhance analytics tools for detailed insights into content performance, including SEO analysis, conversion tracking, and user behavior.</p>
             </div>
 
             <div className="relative flex flex-col items-center p-6 bg-white rounded shadow-xl">
@@ -103,8 +103,8 @@ export default function FeaturesBlocks() {
                   </g>
                 </g>
               </svg>
-              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Headless CMS</h4>
-              <p className="text-gray-600 text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Advanced Templates and Customization</h4>
+              <p className="text-gray-600 text-center">Expand pre-designed templates and offer advanced customization options for easy website/app creation without technical expertise.</p>
             </div>
 
           </div>
